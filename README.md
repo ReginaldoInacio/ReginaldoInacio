@@ -7,7 +7,7 @@
 [![TikTok](	https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@regi.dev?is_from_webapp=1&sender_device=pc)
 [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Regis_dev)
 
-<div align="center">
+<div>
   <a href="https://github.com/ReginaldoInacio">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ReginaldoInacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaldoInacio&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
