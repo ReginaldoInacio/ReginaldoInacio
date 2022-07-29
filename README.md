@@ -14,37 +14,10 @@
 
 - 💬 Lets Talk about **JavaScript, HTML, CSS and Design**
 
-
 - 👨‍💻 More at [Regi.Dev](https://www.linkedin.com/in/reginaldoinacio/)
 
-<!--
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-div style="display: inline_block"></br>
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
--->
-
-<br><br>
-
-<div>
-  <a href="https://github.com/ReginaldoInacio">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ReginaldoInacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
- <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaldoInacio&layout=compact&langs_count=7&theme=tokyonight"/>
+<div style="display: inline_block"></br>
+  <a href="https://github.com/ReginaldoInacio"> <img height="0em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaldoInacio&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
 
 ## Contact
